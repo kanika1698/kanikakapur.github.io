@@ -1,0 +1,26 @@
+.background {
+  background-color: #808080;
+}
+
+.p2 {
+  padding-right: 10%;
+}
+
+.p1 {
+  padding-right: 7%;
+}
+
+.borderradius {
+  border-radius: 1rem;
+}
+
+.contactcard {
+  width: fit-content;
+  text-align: left;
+  height: fit-content;
+}
+
+.input {
+  width: 50%;
+  height: 50%;
+}

@@ -1,0 +1,14 @@
+.image {
+  height: 300px;
+  width: 400px;
+  padding-top: 40px;
+}
+
+.intro {
+  color: aliceblue;
+  text-align: left;
+}
+
+.pl {
+  padding-left: 100px;
+}

@@ -1,0 +1,43 @@
+.head {
+  background-color: rgb(5, 26, 49);
+  display: flex;
+  justify-content: left;
+  color: #ffffff;
+
+}
+
+.headName {
+  color: #ffffff;
+  margin: 20px 10px;
+  padding-left: 30px;
+  font-weight: normal;
+  font-size: large;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  text-decoration: none;
+}
+
+.headitems {
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+a:hover {
+  color: #808080;
+}
+
+.arrow {
+  padding-left: 20px;
+}
+
+.items {
+  text-decoration: none;
+  color: #ffffff;
+  padding-right: 20px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.sticky {
+  position: sticky;
+  top: 0;
+  z-index: 1;
+}
